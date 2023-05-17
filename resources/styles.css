@@ -61,7 +61,7 @@ p {
     margin-bottom: 10px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 780px) {
     .universidad {
         width: 100%;
     }
@@ -76,7 +76,7 @@ img {
 
 .universidad {
     max-width: 100%;
-    height: auto;
+    height: 500px;
 }
 
 
